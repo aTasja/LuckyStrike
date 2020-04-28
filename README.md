@@ -2,7 +2,10 @@
 
 Unity 2D shooter
 
-https://a-tasja.itch.io/lucky-strike
+To play --> https://a-tasja.itch.io/lucky-strike
+
+Some screenshots:
+---------------------
 
 <img src="https://github.com/aTasja/LuckyStrike/blob/master/main.png"  height="500" width="900">
 
